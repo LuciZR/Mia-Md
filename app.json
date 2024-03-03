@@ -5,7 +5,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/LuciZR/Mia-Md",
+  "repository": "https://github.com/LuciZR/Mia-Md/mian",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
