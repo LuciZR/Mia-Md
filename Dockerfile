@@ -1,6 +1,19 @@
-FROM quay.io/gurusensei/guru-bot:latest
+FROM node:lts-buster
 
-RUN git clone https://github.com/Guru322/GURU-BOT /sensei/GURU
-WORKDIR /sensei/GURU
-RUN yarn install --network-concurrency 1
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  rm -rf /var/lib/apt/lists/*
+
+COPY package.json .
+
+RUN npm install && npm install qrcode-terminal
+
+COPY . .
+
+EXPOSE 5000
+
 CMD ["npm", "start"]
