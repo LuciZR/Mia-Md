@@ -77,6 +77,8 @@
 ---
 ### Deploy Koyeb
 
+Get [DATABASE_URL](https://github.com/lyfe00011/whatsapp-bot-md/wiki/DATABASE_URL). You'll need this while deploying.
+
 <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/LuciZR/Mia-Md&branch=builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[PREFIX]=!&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎ Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
 
 ---
