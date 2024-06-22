@@ -20,8 +20,8 @@ await displayLoadingScreen(conn, m.chat)
       mentionedJid: [m.sender],
       isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363178281296360@newsletter',
-                newsletterName: global.author,
+                GroupJid: '120363291285355713@g.us',
+                GroupName: global.author,
                 serverMessageId: -1
             },
       forwardingScore: 999,
@@ -29,7 +29,7 @@ await displayLoadingScreen(conn, m.chat)
       title: "𝙼𝙸𝙰 𝙼𝙳 ⚠︎",
       body: "R U N T I M E",
       thumbnailUrl: pp,
-      sourceUrl: 'gg.gg/zr-md',
+      sourceUrl: 'https://gg.gg/zr-md',
       mediaType: 1,
       renderLargerThumbnail: false
       }}})
