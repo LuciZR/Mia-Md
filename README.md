@@ -50,7 +50,7 @@
 
 2. Get Session ID (Server 1)
     <br>
-<a href='https://session.guruapi.tech/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://mia-session.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ## 𝑴𝑰𝑨 𝑴𝑫 Deploy Method
 
