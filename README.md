@@ -49,9 +49,8 @@
 <a href="https://github.com/LuciZR/Mia-Md/fork"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎" src="https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black"></a>
 
 2. Get Session ID (Server 1)
-    <br>
-<a href='https://mia-session.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://telegra.ph/file/65d614cc6911f9f8fc3f0.png'/></a>
 
+<a href="https://mia-session.onrender.com/"><img src="https://telegra.ph/file/65d614cc6911f9f8fc3f0.png" align="center" width="90" /> </a>
 ## 𝑴𝑰𝑨 𝑴𝑫 Deploy Method
 
 ---
