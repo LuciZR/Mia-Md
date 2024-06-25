@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Mia MD ⚠︎;Multi+Divice+Whatsapp+Bot;Coded+By+LuciZR" alt="Typing SVG" /></a>
   
 <p align="center">  
-  <a href="http://gg.gg/khalifa-group">
+  <a href="http://gg.gg/zr-md">
     <img alt=LuciZR  src="https://i.imgur.com/TVhmEFY.jpeg">
    
 </a> 
