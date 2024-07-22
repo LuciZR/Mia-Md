@@ -9,8 +9,6 @@ import axios from 'axios'
 global.owner = [
   ['918293838182', '𝑳𝒖𝒄𝒊𝒁𝑹🤖', true], 
   ['916296851422', '𝑳𝒖𝒄𝒊𝐙𝐑👾', true],
-  ['919733377065', '𝑺𝑨𝑹𝑼𑁍︎', true], 
-  ['916297511083', '𝑳𝒖𝒄𝒊𝒁𝑹⚡', true],
   
 ] //Number of owners
 
@@ -57,7 +55,7 @@ global.botname = '𝑴𝑰𝑨 𝑴𝑫'
 global.premium = 'true'
 global.packname = '𝑳𝒖𝒄𝒊𝒁𝑹' 
 global.author = '@LuciZR' 
-global.menuvid = 'https://i.imgur.com/eqkBKsZ.mp4'
+global.menuvid = 'https://telegra.ph/file/a670269faf3903db410bd.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029Va9S1ZW17En4Yh6hz63R\n' 
 global.dygp = 'https://chat.whatsapp.com/HuQXSSgC80hERPfi4D4D2i'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
